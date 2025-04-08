@@ -16,7 +16,7 @@ export const products: Product[] = [
     id: 1,
     name: "Minimalist Desk Lamp",
     category: "Lighting",
-    price: 458.99,
+    price: 458.89,
     description: "A sleek, adjustable desk lamp with wireless charging base and touch controls.",
     image: "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
     rating: 4.8,
@@ -31,7 +31,7 @@ export const products: Product[] = [
     description: "Premium mesh office chair with lumbar support and adjustable armrests.",
     image: "https://woodbine.co.in/wp-content/uploads/2024/04/Senior-Executive-WOODBINE-Delhi-Ergonomic-Swivel-Office-Chair-Wooden-Leather-DI-1201.webp",
     rating: 4.7,
-    inventory: 15
+    inventory: 19
   },
   {
     id: 3,
